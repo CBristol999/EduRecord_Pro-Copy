@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewCourses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddScore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MarkSheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveEditCourses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
